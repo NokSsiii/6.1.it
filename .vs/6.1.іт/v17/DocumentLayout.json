@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\6.1.\u0456\u0442\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21AEA2CD-5EC9-0569-B3DF-3D2DCC7B9C3E}|..\\UnitTest11\\UnitTest11.vcxproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\UnitTest11\\UnitTest11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A73D822-5E48-4495-BCC8-769B7FFE2F61}|6.1.\u0456\u0442.vcxproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\6.1.\u0456\u0442\\6.1.\u0456\u0442.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A73D822-5E48-4495-BCC8-769B7FFE2F61}|6.1.\u0456\u0442.vcxproj|solutionrelative:6.1.\u0456\u0442.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest11.cpp",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\UnitTest11\\UnitTest11.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest11\\UnitTest11.cpp",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\UnitTest11\\UnitTest11.cpp",
+              "RelativeToolTip": "..\\UnitTest11\\UnitTest11.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-03T21:39:46.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6.1.\u0456\u0442.cpp",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\6.1.\u0456\u0442\\6.1.\u0456\u0442.cpp",
+              "RelativeDocumentMoniker": "6.1.\u0456\u0442.cpp",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\6.1.\u0456\u0442\\6.1.\u0456\u0442.cpp",
+              "RelativeToolTip": "6.1.\u0456\u0442.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T10:19:17.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
