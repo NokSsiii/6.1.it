@@ -1,0 +1,5 @@
+﻿  Decimal.cpp
+D:\Алгоритмізація\oop2_4.2\Decimal.cpp(33,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  oop2_4.2.cpp
+  Generating Code...
+  oop2_4.2.vcxproj -> D:\Алгоритмізація\oop2_4.2\x64\Debug\oop2_4.2.exe
