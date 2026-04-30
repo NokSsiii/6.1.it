@@ -1,0 +1,6 @@
+﻿  Array.cpp
+  lab3_5.cpp
+  Money.cpp
+D:\Алгоритмізація\lab3_5\Money.cpp(164,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  lab3_5.vcxproj -> D:\Алгоритмізація\lab3_5\x64\Debug\lab3_5.exe
