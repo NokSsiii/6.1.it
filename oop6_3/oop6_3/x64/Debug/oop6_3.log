@@ -1,0 +1,18 @@
+﻿  Integral.cpp
+D:\Алгоритмізація\oop6_3\Integral.h(13,16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Integral.cpp')
+  
+D:\Алгоритмізація\oop6_3\Integral.h(14,57): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Integral.cpp')
+  
+D:\Алгоритмізація\oop6_3\Integral.h(15,38): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Integral.cpp')
+  
+D:\Алгоритмізація\oop6_3\Integral.h(16,37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Integral.cpp')
+  
+D:\Алгоритмізація\oop6_3\Integral.cpp(5,22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Алгоритмізація\oop6_3\Integral.cpp(7,63): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Алгоритмізація\oop6_3\Integral.cpp(9,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Алгоритмізація\oop6_3\Integral.cpp(17,43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  oop6_3.vcxproj -> D:\Алгоритмізація\oop6_3\x64\Debug\oop6_3.exe
